@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @evgeniiasamsonova
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning data analysis
-- 📫 My telegram is eugenesamsonova
+- 👩‍🔧 I’m interested in data analytics, various visualization methods.
+- :dog: Love pugs!
 
 <!---
 evgeniiasamsonova/evgeniiasamsonova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
